@@ -10,6 +10,23 @@ function App() {
         How's the Weather
         <Weather />
         <Weekly />
+        <p>
+          <a
+            href="https://github.com/gabykarsten/weatherapp-react"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Open-source code
+          </a>{" "}
+          by{" "}
+          <a
+            href="https://github.com/gabykarsten"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Gabriella Karsten
+          </a>
+        </p>
       </header>
     </div>
   );

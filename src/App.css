@@ -16,3 +16,16 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.App-header p {
+  font-size: 15px;
+  color: white;
+  font-family: monospace;
+  margin: 40px;
+  opacity: 0.5;
+}
+
+.App-header p a {
+  text-decoration: none;
+  color: white;
+}
