@@ -1,0 +1,23 @@
+.overview {
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+
+.daily {
+  margin: 5px 5px;
+  padding: 10px 10px;
+}
+
+.daily .day {
+  margin: 0 auto;
+}
+
+.daily .icon {
+  margin: 0 auto;
+  font-size: 35px;
+}
+
+.daily .temperature {
+  margin: 0 auto;
+}
